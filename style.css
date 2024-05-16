@@ -1,0 +1,23 @@
+body{
+background-image:linear-gradient(to right,#eabbf8,#bc11e3) ;
+}
+@media only screen and (max-width: 320px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  @media only screen and (max-width: 380px) {
+    body {
+      background-color: rgb(229, 173, 230);
+    }
+  }
+  @media only screen and (max-width: 390px) {
+    body {
+      background-color: rgb(165, 27, 27);
+    }
+  }
+  @media only screen and (max-width: 400px) {
+    body {
+      background-color: rgb(54, 142, 10);
+    }
+  }
