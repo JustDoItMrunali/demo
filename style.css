@@ -1,6 +1,5 @@
 body{
-          background-color: white;
-
+background-image:linear-gradient(to right,#eabbf8,#bc11e3) ;
 }
 @media only screen and (max-width: 320px) {
     body {
